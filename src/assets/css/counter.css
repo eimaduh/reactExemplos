@@ -1,0 +1,13 @@
+.contador h1 {
+    padding-left: 20px;
+    color: #fff;
+}
+
+.contador button {
+    background: gainsboro;
+    border-style: none;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 5px;
+    margin-left: 20px;
+}

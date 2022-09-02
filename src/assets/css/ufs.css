@@ -1,0 +1,12 @@
+h3 {
+    color:azure;
+    padding-left: 20px;
+    margin-top: 30px;
+    text-transform: uppercase;
+}
+
+.container p {
+    color: white;
+    padding-left: 20px;
+    font-size: 18px;
+}

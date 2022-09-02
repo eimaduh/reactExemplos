@@ -1,0 +1,9 @@
+.Movies {
+    text-align: left;
+    border: 1px solid gray;
+    max-width: 300px;
+    margin: 20px;
+    padding-left: 20px;
+    background-color: bisque;
+    border-radius: 10px;
+}
